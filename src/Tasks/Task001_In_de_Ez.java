@@ -1,6 +1,6 @@
 package Tasks;
 
-public class Lab073_In_de_Ez {
+public class Task001_In_de_Ez {
 
     public static void main(String[] args) {
         int a=10;

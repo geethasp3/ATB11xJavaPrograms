@@ -1,6 +1,6 @@
 package Tasks;
 
-public class Lab075_PrintData {
+public class Task003_PrintData {
 
     public static void main(String[] args) {
         String Name=args[0];

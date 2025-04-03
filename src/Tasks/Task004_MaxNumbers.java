@@ -1,6 +1,6 @@
 package Tasks;
 
-public class Lab076_MaxNumbers {
+public class Task004_MaxNumbers {
 
     public static void main(String[] args) {
         String a=args[0];
